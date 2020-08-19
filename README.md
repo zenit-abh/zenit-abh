@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on OpenSourced projects on python and Embedded Systems
 - 🤔 I’m looking for help with ML documentation
 - 💬 Ask me about python basics
-- 📫 How to reach me: Instagram: https://www.instagram.com/zenit_abh , LinkedIn : https://www.linkedin.com/in/rishabh-upadhyay-2340971a6 , Gmail : rishabhgmr97@gmail.com , Facebook : https://www.facebook.com/rishabh.upadhyay.7355
+- 📫 How to reach me: [Instagram](https://www.instagram.com/zenit_abh) , [LinkedIn](https://www.linkedin.com/in/rishabh-upadhyay-2340971a6) , [Facebook](https://www.facebook.com/rishabh.upadhyay.7355) , Gmail - rishabhgmr97@gmail.com
 - 😄 Pronouns: Learner, Enthusiat
 - ⚡ Fun fact: Peanuts aren’t technically nuts
 -->
