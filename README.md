@@ -8,4 +8,22 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/zenit_abh) , [LinkedIn](https://www.linkedin.com/in/rishabh-upadhyay-2340971a6) , [Facebook](https://www.facebook.com/rishabh.upadhyay.7355) , Gmail - rishabhgmr97@gmail.com
 - 😄 Pronouns: Learner, Enthusiat
 - ⚡ Fun fact: Peanuts aren’t technically nuts
--->
+
+
+
+
+
+
+
+
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=zenit-abh)
+
+
+
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenit-abh)](https://github.com/zenit-abh/github-readme-stats)
