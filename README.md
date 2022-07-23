@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Verilog programs
 - 🌱 I’m currently learning Verilog and Vivado
-- 👯 I’m looking to collaborate on OpenSourced projects on python and Embedded Systems
-- 🤔 I’m looking for help with basic Voice assistant codes
-- 💬 Ask me about python basics
+- 👯 I’m looking to collaborate on OpenSourced projects on Verilog and FPGA design.
+- 🤔 I’m looking for help with FPGA design codes
+- 💬 Ask me about Verilog/Digital Circuits 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/zenit_abh) , [LinkedIn](https://www.linkedin.com/in/rishabh-upadhyay-2340971a6) , [Facebook](https://www.facebook.com/rishabh.upadhyay.7355) , Gmail - rishabhgmr97@gmail.com
 - 😄 Pronouns: Learner, Enthusiat
 - ⚡ Fun fact: Peanuts aren’t technically nuts
